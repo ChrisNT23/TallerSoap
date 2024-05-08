@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A121C205-2C92-4C18-B5EB-D2FF583F1ED4}|Cliente\\Cliente.csproj|c:\\users\\chris\\source\\repos\\soapwebservicesc#\\cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A121C205-2C92-4C18-B5EB-D2FF583F1ED4}|Cliente\\Cliente.csproj|solutionrelative:cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C06FB-B6E5-4C11-B008-F68E516B916F}|SoapWebServicesC#\\SoapWebServicesC#.csproj|C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\soapwebservicesc#\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C06FB-B6E5-4C11-B008-F68E516B916F}|SoapWebServicesC#\\SoapWebServicesC#.csproj|solutionrelative:soapwebservicesc#\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C06FB-B6E5-4C11-B008-F68E516B916F}|SoapWebServicesC#\\SoapWebServicesC#.csproj|C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\soapwebservicesc#\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C06FB-B6E5-4C11-B008-F68E516B916F}|SoapWebServicesC#\\SoapWebServicesC#.csproj|solutionrelative:soapwebservicesc#\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A121C205-2C92-4C18-B5EB-D2FF583F1ED4}|Cliente\\Cliente.csproj|c:\\users\\chris\\source\\repos\\soapwebservicesc#\\cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A121C205-2C92-4C18-B5EB-D2FF583F1ED4}|Cliente\\Cliente.csproj|solutionrelative:cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\Cliente\\Form1.cs",
+              "RelativeToolTip": "Cliente\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wCsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:12:09.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\Cliente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cliente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:01:50.269Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\SoapWebServicesC#\\IService1.cs",
+              "RelativeDocumentMoniker": "SoapWebServicesC#\\IService1.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\SoapWebServicesC#\\IService1.cs",
+              "RelativeToolTip": "SoapWebServicesC#\\IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:54:40.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\SoapWebServicesC#\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "SoapWebServicesC#\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\SoapWebServicesC#\\SoapWebServicesC#\\Service1.svc.cs",
+              "RelativeToolTip": "SoapWebServicesC#\\Service1.svc.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:54:18.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

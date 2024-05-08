@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\bin\SoapWebServicesC#.dll.config
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\bin\SoapWebServicesC#.dll
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\bin\SoapWebServicesC#.pdb
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\obj\Debug\SoapWebServicesC#.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\obj\Debug\SoapWebServicesC#.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\obj\Debug\SoapWebServicesC#.dll
+C:\Users\chris\source\repos\SoapWebServicesC#\SoapWebServicesC#\obj\Debug\SoapWebServicesC#.pdb
